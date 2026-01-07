@@ -1,6 +1,7 @@
 # 💸 App de Finanças Pessoais controle de Gastos e Receitas com Vibe Coding
 
 - PRD do Geimini;
+  
 "Gostaria de revisar meu PRD (Documento de Requisitos de Produto), pois pretendo usa-lo no Lovable :
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
 A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
