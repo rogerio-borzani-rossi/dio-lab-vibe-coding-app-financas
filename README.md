@@ -18,7 +18,8 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.."
     
-             -  Interações com a IA (Solicitação Lovable)  e print;
+-  Interações com a IA (Solicitação Lovable)  e print;
+  
 1º Solicitação Lovable
 Crie um web app de finanças pessoais baseado em chat. A interface deve ter uma barra lateral com o resumo financeiro (saldo total, receitas e despesas) e uma área central de chat. O chat deve ser capaz de interpretar frases como 'Recebi 3000 de salário' ou 'Gastei 50 com Uber' e atualizar os gráficos automaticamente. Use um tom amigável, cores suaves (como verde esmeralda e cinza claro) e garanta que seja responsivo para celular.
 2º Solicitação Lovable
@@ -30,12 +31,12 @@ Print do app interação
 
 <img width="1346" height="650" alt="image" src="https://github.com/user-attachments/assets/e705dcfa-3839-40db-91aa-6e5464703ea7" />
 
-- Uma breve **reflexão sobre o processo**:
+-  Uma breve **reflexão sobre o processo**:
   - O que funcionou bem? Sim, mas foi necessário alguns ajustes depois do teste 
   - O que não funcionou como o esperado?  quando digitava algo errado não era possivel corrigir.
 
   
-- Um resumo do que o seu **App de Finanças Pessoais** faz;
+-  Um resumo do que o seu **App de Finanças Pessoais** faz;
 
 Problema a ser resolvido:
 Muitos usuários desistem de controlar gastos devido à complexidade e entrada manual excessiva exigida pelos aplicativos atuais.
@@ -48,7 +49,7 @@ Registro via Chat: Inclusão de receitas e gastos usando linguagem natural. O as
 Relatórios Simples: Visualização de resumos mensais e relatórios personalizados básicos.
 
 
-Link app
+-  Link app
 
 https://diofinancas.lovable.app/
  
